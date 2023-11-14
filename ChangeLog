@@ -1,3 +1,6 @@
+Moved from SourceForge to github to ease installation in Dantewiki
+
+
 Verison 1.9, 2022-12-25
 	Replace new article() by WikiPage::factory()
 	Replace Title::newFromRedirect() by Content::getRedirectTarget()
