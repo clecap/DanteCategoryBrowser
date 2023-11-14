@@ -1,5 +1,5 @@
 {
-  "name":              "GraphicalCategoryBrowser",
+  "name":              "DanteCategoryBrowser",
   "author":            "Heinrich Schuchardt <xypron.glpk@gmx.de> and Clemens H. Cap <clemens@clemens-cap.de>",  
   "url":               "https://github.com/clecap/dantewiki-extensions-GraphicalCategoryBrowser",
   "descriptionmsg":    "Graphical browser for mediawiki / dantewiki categories",
@@ -8,5 +8,11 @@
   "type":              "other",
   "AutoloadClasses":   {"Snippets":          "Snippets.php"  }, 
   "Hooks":             { "CategoryPageView": "xyCategoryHook::hook"},
+  "SpecialPages": {
+        "ExtensionSpecialPage": "SpecialExtensionSpecialPage"
+    },
+    "ExtensionMessagesFiles": {
+        "ExtensionNameAlias": "ExtensionName.alias.php"
+    },
   "manifest_version": 2
 }
