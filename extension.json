@@ -1,0 +1,12 @@
+{
+  "name":              "GraphicalCategoryBrowser",
+  "author":            "Heinrich Schuchardt <xypron.glpk@gmx.de> and Clemens H. Cap <clemens@clemens-cap.de>",  
+  "url":               "https://github.com/clecap/dantewiki-extensions-GraphicalCategoryBrowser",
+  "descriptionmsg":    "Graphical browser for mediawiki / dantewiki categories",
+  "version":           "1.0.1",
+  "license-name":      "gpl-3.0",
+  "type":              "other",
+  "AutoloadClasses":   {"Snippets":          "Snippets.php"  }, 
+  "Hooks":             { "CategoryPageView": "xyCategoryHook::hook"},
+  "manifest_version": 2
+}

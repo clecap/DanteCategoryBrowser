@@ -105,17 +105,16 @@ $wgSpecialPageGroups['Xygraphicalcategorybrowser'] = 'pages';
  * @brief Supplies hook function to add graph to category pages.
  */
 class xyCategoryHook {
-  /**
-   * @brief Sets up hook function.
-   *
-   * Sets <em>CategoryPageView</em> hook.
-   */ 
+ 
+// DEPRECATE
+/*
   public static function hookSetup() {
     global $IP, $wgMessageCache, $wgHooks;
  
     $wgHooks['CategoryPageView'][] = 'xyCategoryHook::hook';
   }
- 
+*/
+
   /**
    * @brief Hook function adds graph to category pages.
    *
