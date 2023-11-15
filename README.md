@@ -4,3 +4,11 @@ This is a heavily reengineered version of https://www.mediawiki.org/wiki/Extensi
 
 This is ongoing work.
 
+## Notes
+
+
+Need 
+
+apk add --update font-bitstream-type1 ghostscript-fonts ttf-cantarell
+
+in docker file.
