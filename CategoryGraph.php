@@ -202,15 +202,22 @@ $xyCategoryGraphStyle = array(
         danteLog ("DanteCategoryBrowser", "not highlioghted : " . print_r ($obj, true) . "\n");
       }
 
-    if (!$redirections[$obj["cat_from"]] ||  $redirections[$obj["cat_from"]] != $obj["cat_to"]) {
+
+    if (
+  //          !$redirections[$obj["cat_from"]] 
+! isset($redirections[$obj['cat_from']])
+|| 
+ $redirections[$obj["cat_from"]] != $obj["cat_to"]) {
       $dot .= "\"".$obj['cat_to']."\" -> \"".$obj['cat_from']."\" [dir=back];\n";
     }
     else {danteLog ("DanteCategoryBrowser", "not redirected : " . print_r ($obj, true) . "\n"); }
+
+
   }  // end for loop second query
-  
 
 
-  # Create redirection links
+
+  // Create redirection links
   foreach( $redirections as $cat_from => $cat_to) {
     $dot .= "\"$cat_to\" -> \"$cat_from\" [color=\"".$colorLinkRedirect."\", dir=back];\n";
   }
