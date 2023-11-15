@@ -1,18 +1,22 @@
 {
-  "name":              "DanteCategoryBrowser",
-  "author":            "Heinrich Schuchardt <xypron.glpk@gmx.de> and Clemens H. Cap <clemens@clemens-cap.de>",  
-  "url":               "https://github.com/clecap/dantewiki-extensions-GraphicalCategoryBrowser",
-  "descriptionmsg":    "Graphical browser for mediawiki / dantewiki categories",
-  "version":           "1.0.1",
-  "license-name":      "gpl-3.0",
-  "type":              "other",
-  "AutoloadClasses":   {"Snippets":          "Snippets.php"  }, 
-  "Hooks":             { "CategoryPageView": "xyCategoryHook::hook"},
+  "name":          "DanteCategoryBrowser",
+  "author":        "Clemens H. Cap",
+  "license-name":  "GPL-2.0+",
+  "version": "0.0.0",
+  "descriptionmsg": "extensionName-desc",
+  "manifest_version": 2,
+  "MessagesDirs": { "DanteCategoryBrowser": [ "i18n" ] },
+  "AutoloadClasses": {
+     "SpecialPageClass": "SpecialExtensionSpecialPage.php",
+     "CategoryGraph":    "CategoryGraph.php"
+  },
   "SpecialPages": {
-        "ExtensionSpecialPage": "SpecialExtensionSpecialPage"
-    },
-    "ExtensionMessagesFiles": {
-        "ExtensionNameAlias": "ExtensionName.alias.php"
-    },
-  "manifest_version": 2
+     "DanteCategoryBrowser_SpecialPage": { "class": "SpecialPageClass"}
+  },
+  "ExtensionMessagesFiles": { 
+     "DanteCategoryBrowser_SpecialPageAlias": "ExtensionName.alias.php"
+  },
+  "Hooks": {"CategoryPageView": "CategoryGraph::onCategoryPageView"},
+  "callback": "CategoryGraph::onRegistration",
+  "type": "specialpage"
 }

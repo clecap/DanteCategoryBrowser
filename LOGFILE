@@ -1,0 +1,1474 @@
+number of rows: 2
+---------------------------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD DanteInitialContents
+------+++++++++++++-------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+    [debug-first] => DanteInitialContents
+)
+
+---------------------------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD Root
+------+++++++++++++-------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+    [debug-first] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+            [debug-first] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+            [debug-first] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+number of rows: 2
+---------------------------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD DanteInitialContents
+------+++++++++++++-------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+    [debug-first] => DanteInitialContents
+)
+
+---------------------------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD Root
+------+++++++++++++-------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+    [debug-first] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+            [debug-first] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+            [debug-first] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+number of rows: 2
+---------------------------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD DanteInitialContents
+------+++++++++++++-------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+    [debug-first] => DanteInitialContents
+)
+
+---------------------------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD Root
+------+++++++++++++-------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+    [debug-first] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+            [debug-first] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+            [debug-first] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+number of rows: 2
+---------------------------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD DanteInitialContents
+------+++++++++++++-------object: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+    [debug-first] => DanteInitialContents
+)
+
+---------------------------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND DDDDDDDDD Root
+------+++++++++++++-------object: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+ AND FFFFFFFFFArray
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+    [debug-first] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+            [debug-first] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+            [debug-first] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 2
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 3
+            [label] => DanteInitialContents
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => Empty
+    [cat] => Empty
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Empty
+    [peri] => 1
+    [label] => Empty
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => Empty
+    [cat_from] => Empty
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => Empty
+    [cat_from] => Empty
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [Empty] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Empty
+            [peri] => 2
+            [label] => Empty
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 1
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/ce2c8aed9c2fa0cfbed56cbda4d8bf07.png </var/www/html/wiki-dir/danteCatBrowserCache/ce2c8aed9c2fa0cfbed56cbda4d8bf07.dot gave  
+first query: number of rows: 3
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Empty
+    [cat] => Empty
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Empty
+    [peri] => 1
+    [label] => Empty
+)
+
+first query, object 2: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 2
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+second query object: Array
+(
+    [0] => Empty
+    [cat_from] => Empty
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => Empty
+    [cat_from] => Empty
+    [1] => Root
+    [cat_to] => Root
+)
+
+NODES: Array
+(
+    [DanteInitialContents] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+            [peri] => 1
+            [label] => DanteInitialContents
+        )
+
+    [Empty] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Empty
+            [peri] => 1
+            [label] => Empty
+        )
+
+    [Root] => Array
+        (
+            [color] => #00EEEE
+            [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+            [peri] => 2
+            [label] => Root
+        )
+
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/fa03eb688ad8aa1db593d33dabd89bad.png </var/www/html/wiki-dir/danteCatBrowserCache/fa03eb688ad8aa1db593d33dabd89bad.dot gave  
+first query: number of rows: 0
+SECOND QUERY number of rows: 0
+NODES: Array
+(
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/9dc379dbe47a2a16e6d9fdd224e157be.png </var/www/html/wiki-dir/danteCatBrowserCache/9dc379dbe47a2a16e6d9fdd224e157be.dot gave  
+first query: number of rows: 0
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/9dc379dbe47a2a16e6d9fdd224e157be.png </var/www/html/wiki-dir/danteCatBrowserCache/9dc379dbe47a2a16e6d9fdd224e157be.dot gave  
+first query: number of rows: 2
+first query, object 0: Array
+(
+    [0] => Empty
+    [cat] => Empty
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Empty
+    [peri] => 1
+    [label] => Empty
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => Empty
+    [cat_from] => Empty
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => Empty
+    [cat_from] => Empty
+    [1] => Root
+    [cat_to] => Root
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/ce2c8aed9c2fa0cfbed56cbda4d8bf07.png </var/www/html/wiki-dir/danteCatBrowserCache/ce2c8aed9c2fa0cfbed56cbda4d8bf07.dot gave  
+first query: number of rows: 3
+first query, object 0: Array
+(
+    [0] => DanteInitialContents
+    [cat] => DanteInitialContents
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:DanteInitialContents
+    [peri] => 1
+    [label] => DanteInitialContents
+)
+
+first query, object 1: Array
+(
+    [0] => Root
+    [cat] => Root
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Root
+    [peri] => 1
+    [label] => Root
+)
+
+first query, object 2: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FFFFCC
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 1
+second query object: Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+not highlioghted : Array
+(
+    [0] => DanteInitialContents
+    [cat_from] => DanteInitialContents
+    [1] => Root
+    [cat_to] => Root
+)
+
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.png </var/www/html/wiki-dir/danteCatBrowserCache/e50b61d4adcda7a4c98620eb70443e3f.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FFFFCC
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 0
+    [missing] => 0
+)
+
+first query: node: Array
+(
+    [color] => #00EEEE
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
+first query: number of rows: 1
+first query, object 0: Array
+(
+    [0] => Thisdoesnotexist
+    [cat] => Thisdoesnotexist
+    [1] => 0
+    [redirect] => 0
+    [2] => 1
+    [missing] => 1
+)
+
+first query: node: Array
+(
+    [color] => #FF0000
+    [url] => https://localhost:4443/wiki-dir/index.php/Category:Thisdoesnotexist
+    [peri] => 1
+    [label] => Thisdoesnotexist
+)
+
+SECOND QUERY number of rows: 0
+calling /usr/bin/dot -Tpng -o/var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.png </var/www/html/wiki-dir/danteCatBrowserCache/87b3db7cdcc9d3dbddc6a69c466cfc5e.dot gave  
